@@ -22,4 +22,3 @@
 #   main "$@"
 #
 # *** PLEASE REMOVE THESE COMMENTS BEFORE SUBMITTING YOUR SOLUTION ***
-echo 'Hello, World!'
